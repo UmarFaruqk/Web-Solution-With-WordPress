@@ -87,4 +87,4 @@ SELinux is a mandatory access control mechanism, a higher level of access contro
 12. After you login in you should see this ![reference image](/Pictures/pic45.PNG) and ![reference image](/Pictures/pic44.PNG)
 
 
-## It Was A Really A Long Ride and I hope You Enjoyed It. Don't Hesitate To Ask Me Any Question Where Ever I Get Lost! THANK YOU
+## It Was A Really A Long Ride and I hope You Enjoyed It. Don't Hesitate To Ask Me Any Question Where Ever You Get Lost! THANK YOU
